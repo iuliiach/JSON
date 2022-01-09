@@ -1,1 +1,13 @@
-
+{
+  "Bug_ID": "111",
+  "Bug_Name": "....",
+  "Severity": "....",
+  "Priority": "....",
+  "Description": "...",
+  "Steps_To_Reproduce": "...",
+  "Actual_result": "...",
+  "Expected_result": "...",
+  "Screenshots":
+  "Environment": "...",
+  "Author": "..."
+}
